@@ -1,4 +1,4 @@
-# calcularorabasica
+# CalculadoraBasica
  uma calculadora basica em Java pra quem quiser :)
  ⠀
   ⠀
